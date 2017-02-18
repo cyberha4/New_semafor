@@ -3,6 +3,9 @@
  */
 public class Main {
     public static void main(String[] args) throws InterruptedException {
+        /**
+         * dasdfsdfsdfsdfsdf
+         */
         Consumer consumer =  new Consumer();
         int[] ints = {1, 2, 3};
         Thread[] threads = new Thread[6];
